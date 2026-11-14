@@ -30,5 +30,6 @@ WASD for movement, space bar for shooting, R for refresh.
 - GDScript
 
 ## Credits
--star adventure asset pack in godot library
--Kaan Alpar Youtube channel: basic game codes for starship and laser shooting were learnt under this channel. bounceback feature was added as an extra fun part!
+-star adventure asset pack in godot library.
+-Kaan Alpar Youtube channel: basic game codes for starship and laser shooting were learnt under this channel.
+bounceback feature was added as an extra fun part!

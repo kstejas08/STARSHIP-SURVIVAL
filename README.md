@@ -1,12 +1,13 @@
 # Starship Survival
 
-A 2D arcade survival game made with Godot. Pilot your starship, fire lasers at incoming enemies, and see how long you can survive.
+A 2D arcade survival game made with Godot. Aboard your starship, fire lasers at incoming enemies, and see how long you can survive!
 
 ## How to Play
 
 - Move your starship to avoid enemies.
 - Fire lasers to attack.
 - Survive as long as you can and earn points.
+- few enemies bounce back your laser, Hence be very careful!!
 - Your current score appears during the match.
 - After a match ends, the game over screen shows your score and the all-time high score.
 
@@ -21,13 +22,7 @@ A 2D arcade survival game made with Godot. Pilot your starship, fire lasers at i
 ## Controls
 
 Use the movement and fire controls assigned in the game.
-
-## Run the Game
-
-1. Install [Godot](https://godotengine.org/).
-2. Open Godot and choose **Import**.
-3. Select this project's `project.godot` file.
-4. Open the project and press **Run Project**.
+WASD for movement, space bar for shooting, R for refresh.
 
 ## Built With
 

@@ -28,3 +28,6 @@ WASD for movement, space bar for shooting, R for refresh.
 
 - Godot Engine
 - GDScript
+
+##Credits
+-Kaan Alpar Youtube channel: basic game codes for starship and laser shooting were learnt under this channel. bounceback feature was added as an extra fun part!
